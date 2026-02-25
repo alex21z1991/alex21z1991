@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Bienvenido a mi perfil
 
-<!--
-**alex21z1991/alex21z1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Alexander Pinto
 
-Here are some ideas to get you started:
+🎯 Desarrollador en formación  
+🚀 Apasionado por la programación y el desarrollo web  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Plataformas
+- 🐙 GitHub
+
+---
+
+## 💻 Lenguajes de Programación
+
+🐍 **Python**  
+Nivel: Medio  
+
+☕ **Java**  
+Nivel: Medio  
+
+💠 **C++**  
+Nivel: Básico  
+
+---
+
+## 🌎 Tecnologías Web
+
+🌐 **HTML**  
+Nivel: Avanzado  
+
+🎨 **CSS**  
+Nivel: Medio  
+
+⚡ **JavaScript**  
+Nivel: Básico  
+
+---
+
+## 🧩 Framework
+
+🅱 **Bootstrap**  
+Nivel: Medio  
+
+---
+
+Actualmente aprendiendo
+---
+
+⭐ Gracias por visitar mi perfil
