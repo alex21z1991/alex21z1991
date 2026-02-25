@@ -1,46 +1,46 @@
-# 👋 Bienvenido a mi perfil
+#  Bienvenido a mi perfil
 
 ## 👨‍💻 Alexander Pinto
 
-🎯 Desarrollador en formación  
-🚀 Apasionado por la programación y el desarrollo web  
+Desarrollador en formación  
+Apasionado por la programación y el desarrollo web  
 
 ---
 
-## 🌐 Plataformas
-- 🐙 GitHub
+## Plataformas
+-  GitHub
 
 ---
 
-## 💻 Lenguajes de Programación
+## Lenguajes de Programación
 
-🐍 **Python**  
+**Python**  
 Nivel: Medio  
 
-☕ **Java**  
+**Java**  
 Nivel: Medio  
 
-💠 **C++**  
+**C++**  
 Nivel: Básico  
 
 ---
 
-## 🌎 Tecnologías Web
+## Tecnologías Web
 
-🌐 **HTML**  
+**HTML**  
 Nivel: Avanzado  
 
-🎨 **CSS**  
+**CSS**  
 Nivel: Medio  
 
-⚡ **JavaScript**  
+**JavaScript**  
 Nivel: Básico  
 
 ---
 
-## 🧩 Framework
+## Framework
 
-🅱 **Bootstrap**  
+**Bootstrap**  
 Nivel: Medio  
 
 ---
@@ -48,4 +48,4 @@ Nivel: Medio
 Actualmente aprendiendo
 ---
 
-⭐ Gracias por visitar mi perfil
+Gracias por visitar mi perfil
