@@ -1,6 +1,6 @@
 #  Bienvenido a mi perfil
 
-## 👨‍💻 Alexander Pinto
+##  Alexander Pinto
 
 Desarrollador en formación  
 Apasionado por la programación y el desarrollo web  
